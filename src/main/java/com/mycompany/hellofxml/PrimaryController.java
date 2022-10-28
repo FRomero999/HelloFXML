@@ -18,6 +18,6 @@ public class PrimaryController {
     @FXML
     private void switchToSecondary() throws IOException {
         //App.setRoot("secondary");
-        texto.setText("Hola a " + cajetin.getText());
+        texto.setText("Hola a  " + cajetin.getText());
     }
 }
