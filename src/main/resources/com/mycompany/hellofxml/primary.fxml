@@ -47,7 +47,7 @@
             <Insets bottom="25.0" left="25.0" right="25.0" top="25.0" />
          </padding>
       </TextField>
-      <Button fx:id="primaryButton" onAction="#switchToSecondary" style="-fx-background-color: coral;" text="Saluda">
+      <Button fx:id="primaryButton" onAction="#switchToSecondary" style="-fx-background-color: coral;" text="Saluda a la peña">
          <font>
             <Font size="23.0" />
          </font></Button>
